@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server removed a file since it was found to match a filter.
+File name: "winmail.dat->swizzfuzz.tar.gz->swizzfuzz.tar->swizzfuzz/examples/http_client_ssl/keys/cacert.crt"
+Filter name: "FILE FILTER= Filter_Delete: *.crt"
